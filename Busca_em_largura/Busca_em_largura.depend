@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1786890534 source:c:\users\fenat\onedrive\desktop\materias 2 sem\sistemas-inteligentes-e-aprendizado-de-maquinas\busca_em_largura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FILA.h"
+
+1786888604 c:\users\fenat\onedrive\desktop\materias 2 sem\sistemas-inteligentes-e-aprendizado-de-maquinas\busca_em_largura\fila.h
+
